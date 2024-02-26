@@ -5,7 +5,7 @@ Este repositorio contiene un análisis detallado de los accidentes en carreteras
 ## Descripción del Proyecto
 
 El objetivo principal de este análisis es profundizar en la comprensión de los accidentes en carreteras federales de la región sudeste de Brasil. Se busca identificar patrones, tendencias y áreas de mayor concentración de accidentes para ayudar a la empresa a tomar decisiones informadas en materia de seguridad vial y planificación logística.
-<img src="https://github.com/MCCoronel/Dashboard-Seguimiento-de-accidentes-en-carreteras-federales---Data-Analytics/blob/main/mail%20.jpg?raw=true" alt="Imagen de muestra del panel de control">
+<img src="https://github.com/MCCoronel/Dashboard-Seguimiento-de-accidentes-en-carreteras-federales---Data-Analytics/blob/main/mail%20.jpg?raw=true" alt="Imagen de mail">
 
 ## Contenido del Repositorio
 
@@ -18,7 +18,7 @@ El objetivo principal de este análisis es profundizar en la comprensión de los
 
 A continuación, se muestra una imagen de muestra del panel de control:
 
-<img src="[https://github.com/MCCoronel/Dashboard-Seguimiento-de-accidentes-en-carreteras-federales---Data-Analytics/blob/main/mail%20.jpg?raw=true" alt="Imagen de muestra del panel de control](https://github.com/MCCoronel/Dashboard-Seguimiento-de-accidentes-en-carreteras-federales---Data-Analytics/blob/main/dashboard%20-%20accidentes.jpg?raw=true)">
+<img src="https://github.com/MCCoronel/Dashboard-Seguimiento-de-accidentes-en-carreteras-federales---Data-Analytics/blob/main/dashboard%20-%20accidentes.jpg?raw=true" alt="Imagen de panel de control">
 
 
 
