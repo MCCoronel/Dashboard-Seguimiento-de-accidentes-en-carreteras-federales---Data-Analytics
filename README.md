@@ -18,7 +18,9 @@ El objetivo principal de este análisis es profundizar en la comprensión de los
 
 A continuación, se muestra una imagen de muestra del panel de control:
 
-![Panel de Control]([ruta/a/imagen.jpg](https://github.com/MCCoronel/Dashboard-Seguimiento-de-accidentes-en-carreteras-federales---Data-Analytics/blob/main/dashboard%20-%20accidentes.jpg?raw=true))
+<img src="[https://github.com/MCCoronel/Dashboard-Seguimiento-de-accidentes-en-carreteras-federales---Data-Analytics/blob/main/mail%20.jpg?raw=true" alt="Imagen de muestra del panel de control](https://github.com/MCCoronel/Dashboard-Seguimiento-de-accidentes-en-carreteras-federales---Data-Analytics/blob/main/dashboard%20-%20accidentes.jpg?raw=true)">
+
+
 
 ## Instrucciones de Uso
 
