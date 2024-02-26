@@ -40,4 +40,4 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE)
 
 ---
 
-© 2024 [MasterLogistics] Todos los derechos reservados.
+© 2024 [MCCoronel] Todos los derechos reservados.
